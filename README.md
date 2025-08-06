@@ -1,7 +1,7 @@
 # amazon-athena-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Amazon Athena
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Amazon Athena (beta)](https://www.cdata.com/download/download.aspx?sku=FKZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Amazon Athena (beta)](https://www.cdata.com/download/download.aspx?sku=FKZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Amazon Athena supported by the [CData JDBC Driver for Amazon Athena](https://www.cdata.com/drivers/athena/jdbc).
 
